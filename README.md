@@ -9,3 +9,4 @@ Selenium Skeleton with Java
 6.	ChromeDriver - Download and create a new folder in Src/test
 7.	Import the ChromeDriver.exe
 
+#Revisar como creo los tests de manera separada
